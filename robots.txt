@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Kamakazi Group - Governance Transparency Registry
+# https://transparency.kamakazigroup.com
+# Public-safe content only. No restricted data served from this domain.
